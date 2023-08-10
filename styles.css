@@ -1,0 +1,101 @@
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+.home {
+	display: flex;
+	justify-content: center;
+	background-color: darkviolet;
+	height: 100vh;
+	padding: 50px 0px 0px 24px;
+}
+#card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#card button {
+	border-radius: 10px;
+	padding: 7px;
+	width: 200px;
+	height: 70px;
+	background-color: rgb(51, 1, 143);
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0px 0px 5px 15px;
+}
+#card_1 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#card_1 button {
+	border-radius: 10px;
+	padding: 7px;
+	width: 200px;
+	height: 70px;
+	background-color: rgb(51, 1, 143);
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0px 0px 5px 15px;
+}
+#card_2 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#card_2 button {
+	border-radius: 10px;
+	padding: 7px;
+	width: 200px;
+	height: 70px;
+	background-color: rgb(51, 1, 143);
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0px 0px 5px 15px;
+}
+#card_3 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#card_3 button {
+	border-radius: 10px;
+	padding: 7px;
+	width: 200px;
+	height: 70px;
+	background-color: rgb(51, 1, 143);
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0px 0px 5px 15px;
+}
+
+.danger {
+	background-color: orange !important;
+	font-weight: bold;
+}
+
+.bluee {
+	background-color: cornflowerblue !important;
+	font-weight: bold;
+}
+
+.orangee {
+	background-color: darksalmon !important;
+	font-weight: bold;
+}
+
+.browm {
+	background-color: rgb(106, 148, 43) !important;
+	font-weight: bold;
+}
